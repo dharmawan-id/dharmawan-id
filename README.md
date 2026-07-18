@@ -13,7 +13,7 @@ Strategic communications, marketing, and media operator with 13 years across Ind
 | Shipped native app | [Sapu-Sapu](https://github.com/dharmawan-id/sapu-sapu) : Windows disk cleaner, Tauri + Rust, 2.8 MB binary |
 | Paid toolkits | [Gumroad](https://idparera.gumroad.com) : Anti-AI-Slop Pro Pack, NONA audit pack, WTP Pro Pack |
 
-## The 13 years before the terminal
+## The 13 years - NOW
 
 Communications, marketing, and media, at the rooms where Indonesian public narrative gets decided:
 
