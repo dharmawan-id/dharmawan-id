@@ -10,7 +10,6 @@ Strategic communications, marketing, and media operator with 13 years across Ind
 | Willingness-to-Pay Framework | [Live diagnostic](https://dharmawan-id.github.io/wtp-framework/) · [repo](https://github.com/dharmawan-id/wtp-framework) : 13 drivers, 90+ sources, bilingual EN/ID |
 | NONA (Non-Coder Audit) | [Live](https://dharmawan-id.github.io/nona/) · [repo](https://github.com/dharmawan-id/nona) : audit protocol for AI-built apps, with an MCP server compatible with 9 AI coding tools |
 | Anti-AI-Slop Standard | [repo](https://github.com/dharmawan-id/anti-ai-slop) : writing standard that catches AI-tell patterns, agent-executable (MCP server, skill, CLI) |
-| Shipped native app | [Sapu-Sapu](https://github.com/dharmawan-id/sapu-sapu) : Windows disk cleaner, Tauri + Rust, 2.8 MB binary |
 | Paid toolkits | [Gumroad](https://idparera.gumroad.com) : Anti-AI-Slop Pro Pack, NONA audit pack, WTP Pro Pack |
 
 ## The 13 years - NOW
